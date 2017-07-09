@@ -1,5 +1,5 @@
 # Újragondolt Python anyag
-__Tanulom a Python nyelvet ;-)__
+**Tanulom a Python nyelvet ;-)**
 
 ### Tartalomjegyzék:
 1. Alapok
